@@ -3,6 +3,10 @@
 	"author": "David Salter",
 	"description": "Not much to see here, just a simple node project",
 	"dependencies": {
+	"keywords": [
+        "sampleproject", 
+        "freecodecamp"
+	]
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
